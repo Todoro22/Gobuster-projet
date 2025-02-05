@@ -46,7 +46,7 @@ Il a pour but de découvrir des répertoires ou des fichiers potentiellement cac
 ## 5. Commande à exécuter
 Voici un exemple de commande de lancement :
 ```bash
-go run mainV1.5.go -dictionary git_wordlist.txt -target http://debianserver/ocsreports/ -threads 5
+go run mainV1.5.go -d git_wordlist.txt -t URL...... -w 5
 ```
 
 ---
